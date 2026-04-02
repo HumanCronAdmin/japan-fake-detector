@@ -1,0 +1,245 @@
+[
+  {
+    "name": "AmiAmi",
+    "url": "https://amiami.com",
+    "status": "trusted",
+    "categories": ["Figures", "Merch"],
+    "notes": "Largest retailer for anime figures in Japan. Ships worldwide.",
+    "sources": ["r/AnimeFigures", "MFC"],
+    "last_verified": "2026-03-15"
+  },
+  {
+    "name": "CDJapan",
+    "url": "https://www.cdjapan.co.jp",
+    "status": "trusted",
+    "categories": ["Music", "Figures", "Merch"],
+    "notes": "Long-running retailer. Reliable shipping.",
+    "sources": ["r/japanmusic", "Trustpilot"],
+    "last_verified": "2026-03-15"
+  },
+  {
+    "name": "Solaris Japan",
+    "url": "https://solarisjapan.com",
+    "status": "trusted",
+    "categories": ["Figures"],
+    "notes": "Specializes in both new and pre-owned figures.",
+    "sources": ["r/AnimeFigures", "MFC"],
+    "last_verified": "2026-03-15"
+  },
+  {
+    "name": "Mandarake",
+    "url": "https://www.mandarake.co.jp",
+    "status": "trusted",
+    "categories": ["Figures", "Manga", "Vintage"],
+    "notes": "Major secondhand chain. Authentic guaranteed.",
+    "sources": ["r/manga", "r/AnimeFigures"],
+    "last_verified": "2026-03-15"
+  },
+  {
+    "name": "Hobby Search (1999.co.jp)",
+    "url": "https://www.1999.co.jp",
+    "status": "trusted",
+    "categories": ["Figures", "Models"],
+    "notes": "Wholesale prices. Wide selection.",
+    "sources": ["r/Gunpla", "r/AnimeFigures"],
+    "last_verified": "2026-03-15"
+  },
+  {
+    "name": "HobbyLink Japan",
+    "url": "https://www.hlj.com",
+    "status": "trusted",
+    "categories": ["Figures", "Models", "Gunpla"],
+    "notes": "Long-established hobby retailer.",
+    "sources": ["r/Gunpla", "r/AnimeFigures"],
+    "last_verified": "2026-03-15"
+  },
+  {
+    "name": "Amazon Japan",
+    "url": "https://www.amazon.co.jp",
+    "status": "trusted",
+    "categories": ["General"],
+    "notes": "Official marketplace. Check seller ratings.",
+    "sources": ["r/japanlife"],
+    "last_verified": "2026-03-15"
+  },
+  {
+    "name": "Rakuten",
+    "url": "https://www.rakuten.co.jp",
+    "status": "trusted",
+    "categories": ["General"],
+    "notes": "Marketplace. Verify individual seller reputation.",
+    "sources": ["r/japanlife"],
+    "last_verified": "2026-03-15"
+  },
+  {
+    "name": "Mercari Japan",
+    "url": "https://www.mercari.com/jp",
+    "status": "trusted",
+    "categories": ["General", "Secondhand"],
+    "notes": "Peer-to-peer marketplace. Check seller history.",
+    "sources": ["r/japanlife", "r/AnimeFigures"],
+    "last_verified": "2026-03-15"
+  },
+  {
+    "name": "Yahoo Auctions Japan",
+    "url": "https://auctions.yahoo.co.jp",
+    "status": "trusted",
+    "categories": ["General", "Auction"],
+    "notes": "Japan's largest auction site. Use proxy service.",
+    "sources": ["r/japanlife"],
+    "last_verified": "2026-03-15"
+  },
+  {
+    "name": "Surugaya",
+    "url": "https://www.suruga-ya.com",
+    "status": "trusted",
+    "categories": ["Games", "Figures", "Books"],
+    "notes": "Large secondhand retailer. Reliable.",
+    "sources": ["r/retrogaming", "r/AnimeFigures"],
+    "last_verified": "2026-03-15"
+  },
+  {
+    "name": "Animate",
+    "url": "https://www.animate-onlineshop.jp",
+    "status": "trusted",
+    "categories": ["Anime Merch"],
+    "notes": "Official anime merchandise chain.",
+    "sources": ["r/anime"],
+    "last_verified": "2026-03-15"
+  },
+  {
+    "name": "Toranoana",
+    "url": "https://www.toranoana.jp",
+    "status": "trusted",
+    "categories": ["Doujinshi", "Merch"],
+    "notes": "Major doujinshi and indie retailer.",
+    "sources": ["r/manga", "r/doujinshi"],
+    "last_verified": "2026-03-15"
+  },
+  {
+    "name": "Neokyo",
+    "url": "https://neokyo.com",
+    "status": "trusted",
+    "categories": ["Proxy"],
+    "notes": "Proxy buying service. Well-reviewed.",
+    "sources": ["r/AnimeFigures", "Trustpilot"],
+    "last_verified": "2026-03-15"
+  },
+  {
+    "name": "Buyee",
+    "url": "https://buyee.jp",
+    "status": "trusted",
+    "categories": ["Proxy"],
+    "notes": "Official proxy for Yahoo Auctions/Mercari.",
+    "sources": ["r/japanlife"],
+    "last_verified": "2026-03-15"
+  },
+  {
+    "name": "ZenMarket",
+    "url": "https://zenmarket.jp",
+    "status": "trusted",
+    "categories": ["Proxy"],
+    "notes": "Proxy buying service. Good English support.",
+    "sources": ["r/AnimeFigures", "Trustpilot"],
+    "last_verified": "2026-03-15"
+  },
+  {
+    "name": "FromJapan",
+    "url": "https://www.fromjapan.co.jp",
+    "status": "trusted",
+    "categories": ["Proxy"],
+    "notes": "Proxy service with plan options.",
+    "sources": ["r/AnimeFigures"],
+    "last_verified": "2026-03-15"
+  },
+  {
+    "name": "White Rabbit Express",
+    "url": "https://www.whiterabbitexpress.com",
+    "status": "trusted",
+    "categories": ["Proxy"],
+    "notes": "Premium proxy service. Personal shoppers.",
+    "sources": ["r/japanlife", "Trustpilot"],
+    "last_verified": "2026-03-15"
+  },
+  {
+    "name": "Jungle",
+    "url": "https://jungle-scs.co.jp",
+    "status": "trusted",
+    "categories": ["Figures", "Toys"],
+    "notes": "Tokyo-based retailer. Multiple shops in Akihabara.",
+    "sources": ["r/AnimeFigures"],
+    "last_verified": "2026-03-15"
+  },
+  {
+    "name": "Nin-Nin Game",
+    "url": "https://www.nin-nin-game.com",
+    "status": "trusted",
+    "categories": ["Games", "Figures"],
+    "notes": "Game and figure retailer.",
+    "sources": ["r/AnimeFigures", "r/retrogaming"],
+    "last_verified": "2026-03-15"
+  },
+  {
+    "name": "Anime Ape",
+    "url": "https://animeape.com",
+    "status": "blacklisted",
+    "categories": ["Figures"],
+    "notes": "Known bootleg seller. Frequently reported on Reddit r/AnimeFigures.",
+    "sources": ["r/AnimeFigures"],
+    "last_verified": "2026-03-10"
+  },
+  {
+    "name": "Wish",
+    "url": "https://www.wish.com",
+    "status": "blacklisted",
+    "categories": ["General"],
+    "notes": "Marketplace flooded with counterfeit anime merchandise.",
+    "sources": ["r/AnimeFigures", "r/Scams"],
+    "last_verified": "2026-03-10"
+  },
+  {
+    "name": "SORA Clothing-style sites",
+    "url": null,
+    "status": "warning",
+    "categories": ["Clothing"],
+    "notes": "Multiple Reddit reports of stolen anime fan art printed on low-quality items. Domain names change frequently.",
+    "sources": ["r/anime", "r/Scams"],
+    "last_verified": "2026-03-10"
+  },
+  {
+    "name": "DHgate",
+    "url": "https://www.dhgate.com",
+    "status": "warning",
+    "categories": ["General"],
+    "notes": "Chinese marketplace. High rate of counterfeit goods.",
+    "sources": ["r/FashionReps", "r/AnimeFigures"],
+    "last_verified": "2026-03-10"
+  },
+  {
+    "name": "AliExpress",
+    "url": "https://www.aliexpress.com",
+    "status": "warning",
+    "categories": ["General"],
+    "notes": "Some legitimate sellers but very high bootleg risk for anime figures and merch. Exercise extreme caution.",
+    "sources": ["r/AnimeFigures", "r/Scams"],
+    "last_verified": "2026-03-10"
+  },
+  {
+    "name": "Kazemode",
+    "url": null,
+    "status": "warning",
+    "categories": ["Clothing"],
+    "notes": "Reported for using stolen artwork. Multiple Reddit complaints.",
+    "sources": ["r/anime", "r/Scams"],
+    "last_verified": "2026-03-10"
+  },
+  {
+    "name": "Redbubble (for Japanese IP)",
+    "url": "https://www.redbubble.com",
+    "status": "warning",
+    "categories": ["Clothing"],
+    "notes": "User-uploaded designs often use copyrighted anime art without license.",
+    "sources": ["r/anime"],
+    "last_verified": "2026-03-10"
+  }
+]

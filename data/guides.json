@@ -1,0 +1,56 @@
+[
+  {
+    "id": "anime-figures",
+    "title": "Anime Figures",
+    "icon": "🎭",
+    "tips": [
+      "Check box quality — official boxes have sharp printing, consistent colors, and proper logos",
+      "Look for official stickers from manufacturers (Good Smile Company, Bandai, Kotobukiya, etc.)",
+      "Compare with photos on MyFigureCollection (MFC) before purchasing",
+      "If the price seems too good to be true, it is probably a bootleg",
+      "Check base quality and paint detail — bootlegs have rough seams, uneven paint, and flimsy bases",
+      "Official figures typically cost $30+ for prize figures, $100+ for scales"
+    ]
+  },
+  {
+    "id": "trading-cards",
+    "title": "Trading Cards",
+    "icon": "🃏",
+    "tips": [
+      "Verify holographic patterns match official cards — fakes often have wrong holo type",
+      "Check card thickness and feel — real cards have consistent stock weight",
+      "Compare font style and spacing with official card databases",
+      "Buy from TCG-specific stores or verified sellers on established platforms",
+      "Check set numbers and card codes against official databases",
+      "Sealed products should have official shrink wrap and seals"
+    ]
+  },
+  {
+    "id": "clothing-fashion",
+    "title": "Clothing & Fashion",
+    "icon": "👕",
+    "tips": [
+      "Verify brand tags and stitching quality — licensed goods have proper labels",
+      "Check if the design is actually licensed by the IP holder",
+      "Reverse image search the design to see if it is stolen fan art",
+      "Avoid sites known for printing stolen fan art on cheap blanks",
+      "Official anime clothing collabs are announced by the brand or IP holder",
+      "Check if the store has a verifiable business registration"
+    ]
+  },
+  {
+    "id": "general-tips",
+    "title": "General Tips",
+    "icon": "🔍",
+    "tips": [
+      "Always check Reddit threads before buying from unknown shops",
+      "Use PayPal for buyer protection when possible",
+      "Check Trustpilot and review aggregators for seller reputation",
+      "Verify the site has SSL (https) and a verifiable company registration",
+      "If the price seems too low for the item, it is probably counterfeit",
+      "Be wary of sites with aggressive countdown timers and \"limited stock\" pressure",
+      "Search the shop name + \"scam\" or \"fake\" before ordering",
+      "For high-value items, request photos of the actual item and authentication marks"
+    ]
+  }
+]

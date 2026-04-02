@@ -1,0 +1,16 @@
+{
+  "name": "Japan Fake & Scam Detector",
+  "short_name": "Fake Detector",
+  "description": "Verify Japanese shops before you buy. Community-sourced whitelist and blacklist.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0f1a",
+  "theme_color": "#1a1a2e",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
